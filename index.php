@@ -60,7 +60,7 @@
                     <div class="col mb-5">
                         <div class="card h-100">
                             <!-- Product image-->
-                            <a href=<?php echo "http://d3sh1zjnth8475.cloudfront.net/".$fname[0]."/".$fname[0].".mp4" ?>><img class="card-img-top" src="http://df075yr43a20h.cloudfront.net/paper-coffee.jpg" alt="..." /></a>
+                            <a href=<?php echo "http://d3sh1zjnth8475.cloudfront.net/".$fname[0]."/".$fname[0].".mp4" ?>><img class="card-img-top" src="http://d3sh1zjnth8475.cloudfront.net/paper-coffee.jpg" alt="..." /></a>
                             <!-- Product details-->
                             <div class="card-body p-4">
                                 <div class="text-center">
